@@ -2,6 +2,8 @@
 
 This is a Streamlit web application that predicts crop yield based on live weather data and farm input features. The model was trained using global crop production data and demonstrates how AI can support **SDG 2: Zero Hunger** by helping farmers and policymakers make smarter, data-driven decisions.
 
+Click here: https://cropyieldpredict.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
